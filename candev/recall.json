@@ -1,0 +1,1218 @@
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd0d"), 
+    "Date of Recall" : ISODate("2018-10-19T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Emborg brand Pizza Style Dairy Free Shreds recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd0e"), 
+    "Date of Recall" : ISODate("2018-10-17T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Schneiders brand Country Naturals Wieners recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Possibly National, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd0f"), 
+    "Date of Recall" : ISODate("2018-10-15T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Certain Abbott brand formulated liquid nutrition products in�235 mL�metal cans recalled due to possible bacterial contamination", 
+    "Class" : "--", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd10"), 
+    "Date of Recall" : ISODate("2018-10-12T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Coconut Town brand Coconut wafer roll recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd11"), 
+    "Date of Recall" : ISODate("2018-10-11T00:00:00.000+0000"), 
+    "Recall" : "Notification - Euro-Balkan Specialty Foods brand Balkan Style Kajmak Cream Cheese Product recalled due to a toxin produced by Staphylococcus bacteria", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd12"), 
+    "Date of Recall" : ISODate("2018-10-09T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - \"Koushuiwa\" brand Rice Cracker (Barbecue Flavor) and Squid Snack (Hot & Spicy) recalled due to undeclared sesame and squid", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd13"), 
+    "Date of Recall" : ISODate("2018-10-09T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Ten Ten Dim Sum brand Dumplings recalled due to undeclared egg", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd14"), 
+    "Date of Recall" : ISODate("2018-10-05T00:00:00.000+0000"), 
+    "Recall" : "Notification - Frank brand Jerky and Beef Snack Sticks recalled due to mould", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd15"), 
+    "Date of Recall" : ISODate("2018-10-04T00:00:00.000+0000"), 
+    "Recall" : "Notification - Various brands of oysters recalled by Oyster Kings due to generic�E. coli", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , British Columbia, Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd16"), 
+    "Date of Recall" : ISODate("2018-10-04T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Carstairs Ideal Weight Loss and Nutritional Ketosis brand protein bars recalled due to undeclared soy", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd17"), 
+    "Date of Recall" : ISODate("2018-10-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain $10 Chicken Fries recalled due to�Salmonella", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd18"), 
+    "Date of Recall" : ISODate("2018-09-28T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Certain Arctic Gardens brand Veg-e Protein products recalled due to defective packaging", 
+    "Class" : "Class 3", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd19"), 
+    "Date of Recall" : ISODate("2018-09-28T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Lavite brand Soft-Dried Mango recalled due to undeclared sulphites", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd1a"), 
+    "Date of Recall" : ISODate("2018-09-27T00:00:00.000+0000"), 
+    "Recall" : "Notification - French's brand Ketchup recalled due to spoilage", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd1b"), 
+    "Date of Recall" : ISODate("2018-09-27T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Arctic Gardens brand Veg-e Protein products recalled due to defective packaging", 
+    "Class" : "Class 3", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd1c"), 
+    "Date of Recall" : ISODate("2018-09-25T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - 365 Everyday Value brand Salted White Corn Tortilla Chips recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd1d"), 
+    "Date of Recall" : ISODate("2018-09-24T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Cabot brand Oysters recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Nova Scotia, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd1e"), 
+    "Date of Recall" : ISODate("2018-09-23T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain Abbott Two Cal brand and Abbott Promote brand formulated liquid diet products recalled due to possible bacterial contamination", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd1f"), 
+    "Date of Recall" : ISODate("2018-09-22T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Certain Greenbelt Microgreens brand microgreens recalled due to Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd20"), 
+    "Date of Recall" : ISODate("2018-09-21T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Various brands of protein products recalled due to undeclared soy", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd21"), 
+    "Date of Recall" : ISODate("2018-09-21T00:00:00.000+0000"), 
+    "Recall" : "Notification - Mr. Christie's brand Chocolate Wafers recalled due to rancidity", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd22"), 
+    "Date of Recall" : ISODate("2018-09-19T00:00:00.000+0000"), 
+    "Recall" : "Notification - China Lily brand soya sauce recalled due to spoilage", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd23"), 
+    "Date of Recall" : ISODate("2018-09-17T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Future Seafoods Inc. Malpeque Oysters brand Oysters recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd24"), 
+    "Date of Recall" : ISODate("2018-09-12T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Lonely God brand Potato Rice Chips Barbecue Flavor recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd25"), 
+    "Date of Recall" : ISODate("2018-09-10T00:00:00.000+0000"), 
+    "Recall" : "Notification - Califia brand Cold Brew Coffee Mocha with Almond Beverage�- Dairy Free recalled due to presence of sanitizer", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd26"), 
+    "Date of Recall" : ISODate("2018-09-07T00:00:00.000+0000"), 
+    "Recall" : "Notification - Pinty's brand chicken breast products recalled due to�Listeria", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd27"), 
+    "Date of Recall" : ISODate("2018-09-06T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Compliments brand Chili Powder recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd28"), 
+    "Date of Recall" : ISODate("2018-09-06T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Fresh lychees recalled due to undeclared sulphites", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Ontario, Possibly National, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd29"), 
+    "Date of Recall" : ISODate("2018-09-04T00:00:00.000+0000"), 
+    "Recall" : "Notification - Sunny Fruit brand Dried and Organic Figs recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd2a"), 
+    "Date of Recall" : ISODate("2018-08-31T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Fresh lychees recalled due to undeclared sulphites", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd2b"), 
+    "Date of Recall" : ISODate("2018-08-31T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Sugar and Spun brand Cotton Candy recalled due to undeclared eggs, milk, peanut and wheat", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd2c"), 
+    "Date of Recall" : ISODate("2018-08-30T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Pinty's brand Italian Style Chicken Schnitzel recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd2d"), 
+    "Date of Recall" : ISODate("2018-08-29T00:00:00.000+0000"), 
+    "Recall" : "Notification - Rodney's Oyster Depot LP brand SM Choice Oysters recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Prince Edward Island"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd2e"), 
+    "Date of Recall" : ISODate("2018-08-25T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain Greenbelt Microgreens brand microgreens recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd2f"), 
+    "Date of Recall" : ISODate("2018-08-25T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - North Country Premium brand Bavarian Smokies recalled due to undeclared mustard and milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd30"), 
+    "Date of Recall" : ISODate("2018-08-20T00:00:00.000+0000"), 
+    "Recall" : "Notification - United With Earth brand Medjool Dates recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd31"), 
+    "Date of Recall" : ISODate("2018-08-10T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Various brands of protein products recalled due to undeclared soy", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd32"), 
+    "Date of Recall" : ISODate("2018-08-08T00:00:00.000+0000"), 
+    "Recall" : "Food Safety Warning - Dole brand Baby Spinach with Tender Reds recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 2", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Possibly National, Prince Edward Island"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd33"), 
+    "Date of Recall" : ISODate("2018-08-03T00:00:00.000+0000"), 
+    "Recall" : "Notification -�Hu�tres la Chipagane�Oysters brand Cocktail Oysters recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd34"), 
+    "Date of Recall" : ISODate("2018-08-03T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Oguraya Bakery brand Buns recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , British Columbia, Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd35"), 
+    "Date of Recall" : ISODate("2018-08-03T00:00:00.000+0000"), 
+    "Recall" : "Notification - Mallet / L'�tang Ruisseau Bar Lt�e. brand Cocktail American Oysters recalled due to Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Newfoundland and Labrador, Nova Scotia, Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd36"), 
+    "Date of Recall" : ISODate("2018-08-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Oysters recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Nova Scotia, Ontario, Possibly National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd37"), 
+    "Date of Recall" : ISODate("2018-08-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Potato Chips imported by Han-Ka Export-Import Ltd. recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , British Columbia, Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd38"), 
+    "Date of Recall" : ISODate("2018-07-27T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Wulama brand Fish Tofu and Want Want brand Shake Jelly products recalled due to undeclared allergens", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd39"), 
+    "Date of Recall" : ISODate("2018-07-24T00:00:00.000+0000"), 
+    "Recall" : "Notification - Prana�Biologique�brand Dried Figs recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd3a"), 
+    "Date of Recall" : ISODate("2018-07-23T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Pepperidge Farm brand Goldfish Flavour Blasted Xtreme Cheddar Crackers recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd3b"), 
+    "Date of Recall" : ISODate("2018-07-21T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain $10 Chicken Fries recalled due to�Salmonella", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd3c"), 
+    "Date of Recall" : ISODate("2018-07-20T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Christie brand Ritz Bits Sandwiches (Cheese and Pizza Flavours) recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd3d"), 
+    "Date of Recall" : ISODate("2018-07-20T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain No Name brand Chicken Nuggets recalled due to�Salmonella", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd3e"), 
+    "Date of Recall" : ISODate("2018-07-16T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Cedar brand spreads recalled due to undeclared sesame and soy", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd3f"), 
+    "Date of Recall" : ISODate("2018-07-13T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Europe's Best brand Field Berry Mixes recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd40"), 
+    "Date of Recall" : ISODate("2018-07-13T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Certain Organica brand pickle in olive oil products recalled due to undeclared mustard", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd41"), 
+    "Date of Recall" : ISODate("2018-07-13T00:00:00.000+0000"), 
+    "Recall" : "Notification - Sunny Fruit brand Organic Figs recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd42"), 
+    "Date of Recall" : ISODate("2018-07-12T00:00:00.000+0000"), 
+    "Recall" : "Notification - Great Value brand Pickled Sliced Jalapeno Peppers recalled due to pieces of glass", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd43"), 
+    "Date of Recall" : ISODate("2018-07-06T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Wulama brand Fish Tofu recalled due to undeclared egg and sesame", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd44"), 
+    "Date of Recall" : ISODate("2018-06-29T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Certain Nanfang brand, Want Want brand and Chencun brand products recalled due to undeclared allergens", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd45"), 
+    "Date of Recall" : ISODate("2018-06-29T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain extra lean ground beef products recalled due to�E.�coli�O157", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd46"), 
+    "Date of Recall" : ISODate("2018-06-15T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Now Real Food brand Zesty Sprouting Mix recalled due to�Salmonella", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd47"), 
+    "Date of Recall" : ISODate("2018-06-15T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Mrakovic Meat & Deli brand The Original Mrakovic Burger recalled due to undeclared egg, rye, sesame, soy, and wheat", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd48"), 
+    "Date of Recall" : ISODate("2018-06-15T00:00:00.000+0000"), 
+    "Recall" : "Notification - Pecorino brand Hard Cheese from Sheep Milk recalled due to�E.�coli", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd49"), 
+    "Date of Recall" : ISODate("2018-06-07T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Evergreen Herbs brand Pea Shoots recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "British Columbia, Possibly National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd4a"), 
+    "Date of Recall" : ISODate("2018-06-06T00:00:00.000+0000"), 
+    "Recall" : "Notification - Stella Artois brand beer recalled due to the potential presence of pieces of glass", 
+    "Class" : "Class 3", 
+    "Distribution" : "Manitoba, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd4b"), 
+    "Date of Recall" : ISODate("2018-06-05T00:00:00.000+0000"), 
+    "Recall" : "Notification - Iron Vegan Sprouted Protein brand protein bars recalled due to pieces of metal", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd4c"), 
+    "Date of Recall" : ISODate("2018-06-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain no name brand Chicken Burgers recalled due to�Salmonella", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd4d"), 
+    "Date of Recall" : ISODate("2018-05-26T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Select Love Child Organics brand and�PC�Organics brand baby food pouches recalled due to packaging defects that may allow the entry of spoilage microorganisms", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd4e"), 
+    "Date of Recall" : ISODate("2018-05-25T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Ruffles brand Regular Potato Chips recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd4f"), 
+    "Date of Recall" : ISODate("2018-05-18T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Jongga brand Kimchi Ramen dried soup mix recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd50"), 
+    "Date of Recall" : ISODate("2018-05-17T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Certain smoked fish products sold from Four Seasons Marketplace recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd51"), 
+    "Date of Recall" : ISODate("2018-05-17T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Fisher Ma Ma and Liao Bu De brand fish products recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "British Columbia, Manitoba, New Brunswick, Ontario, Possibly National, Prince Edward Island, Quebec, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd52"), 
+    "Date of Recall" : ISODate("2018-05-15T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Whole Foods Market recalls Reblochon Cheese \"raw cow cheese\" due to�E.coli�O26", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd53"), 
+    "Date of Recall" : ISODate("2018-05-14T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Haute Montagne brand raw milk cheese \"Reblochon de Savoie (AOP) au lait cru\" recalled due to�E. coli�O26", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd54"), 
+    "Date of Recall" : ISODate("2018-05-14T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Preservation Society brand marmalade and jam recalled due to undeclared sulphites", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd55"), 
+    "Date of Recall" : ISODate("2018-05-13T00:00:00.000+0000"), 
+    "Recall" : "Food Safety Warning - Certain Four Seasons Marketplace brand refrigerated packaged smoked salmon products may be unsafe due to potential presence of dangerous bacteria", 
+    "Class" : "--", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd56"), 
+    "Date of Recall" : ISODate("2018-05-11T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - illy brand whole coffee beans recalled due to swelling cans from missing air valve", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd57"), 
+    "Date of Recall" : ISODate("2018-05-11T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Jongga brand Kimchi Ramen dried soup mix recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Manitoba, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd58"), 
+    "Date of Recall" : ISODate("2018-05-11T00:00:00.000+0000"), 
+    "Recall" : "Notification - Various brands of Margarine recalled due to pieces of plastic", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd59"), 
+    "Date of Recall" : ISODate("2018-04-28T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Canbe Food�Inc.�brand rolls and samosas recalled due to undeclared mustard", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd5a"), 
+    "Date of Recall" : ISODate("2018-04-27T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Golden Ocean�Inc.�brand and Liao Bu De brand fish products recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Possibly National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd5b"), 
+    "Date of Recall" : ISODate("2018-04-26T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Wang Korea brand Dumplings recalled due to undeclared egg", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , Manitoba, Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd5c"), 
+    "Date of Recall" : ISODate("2018-04-20T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Montana brand frozen strawberries recalled due to Hepatitis A", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd5d"), 
+    "Date of Recall" : ISODate("2018-04-18T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Fresh 2 Go brand Roast Beef Paninis recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd5e"), 
+    "Date of Recall" : ISODate("2018-04-18T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Culinary Creations Gourmet brand & Denny's Express brand roast beef-containing sandwiches recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd5f"), 
+    "Date of Recall" : ISODate("2018-04-18T00:00:00.000+0000"), 
+    "Recall" : "Notification - Katrin Zytomierska brand Protein Bread Mix recalled due to undeclared gluten", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd60"), 
+    "Date of Recall" : ISODate("2018-04-17T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Roast beef products recalled by Erie Meat Products�Ltd.�due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , Newfoundland and Labrador, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd61"), 
+    "Date of Recall" : ISODate("2018-04-16T00:00:00.000+0000"), 
+    "Recall" : "Notification - Cedar Phoenicia brand Layer Izmir Figs recalled due to extraneous material", 
+    "Class" : "Class 3", 
+    "Distribution" : "Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd62"), 
+    "Date of Recall" : ISODate("2018-04-15T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning -�Buenas�brand Grated Coconut recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd63"), 
+    "Date of Recall" : ISODate("2018-04-14T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Montana brand frozen strawberries recalled due to Hepatitis�A", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd64"), 
+    "Date of Recall" : ISODate("2018-04-12T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Durra brand seasoning products recalled due to undeclared sesame and wheat", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd65"), 
+    "Date of Recall" : ISODate("2018-04-12T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Dong Won brand Frozen Shrimp Cutlet recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Nova Scotia, Ontario, Possibly National, Quebec, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd66"), 
+    "Date of Recall" : ISODate("2018-04-11T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Kamy brand Salad Dressing recalled due to undeclared milk and wheat", 
+    "Class" : "Class 1", 
+    "Distribution" : "British Columbia, Ontario, Possibly National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd67"), 
+    "Date of Recall" : ISODate("2018-04-11T00:00:00.000+0000"), 
+    "Recall" : "Notification - Cedar Phoenicia brand Pulled Izmir Figs recalled due to presence of insects and mould", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd68"), 
+    "Date of Recall" : ISODate("2018-04-11T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Wang Korea brand Shrimp Dumpling (Gyoza) recalled due to undeclared egg", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , Manitoba, Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd69"), 
+    "Date of Recall" : ISODate("2018-04-11T00:00:00.000+0000"), 
+    "Recall" : "Correction - Updated Food Recall Warning - Culinary Creations Gourmet* brand & Denny's Express* brand roast beef-containing sandwiches recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd6a"), 
+    "Date of Recall" : ISODate("2018-04-10T00:00:00.000+0000"), 
+    "Recall" : "Notification - La San Marzano brand Strained Tomatoes recalled due to mould", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd6b"), 
+    "Date of Recall" : ISODate("2018-04-10T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Liao Bu De brand Fish and Shrimp Dumplings recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd6c"), 
+    "Date of Recall" : ISODate("2018-04-10T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Culinary Creations brand & Denny's brand roast beef-containing sandwiches recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd6d"), 
+    "Date of Recall" : ISODate("2018-04-10T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Fresh�2�Go brand Roast Beef Paninis recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd6e"), 
+    "Date of Recall" : ISODate("2018-04-09T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Deli Classic brand Seasoned Cooked Roast Beef Round recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , Newfoundland and Labrador, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd6f"), 
+    "Date of Recall" : ISODate("2018-04-06T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) -�La Cocina�Dyck brand Tamales recalled due to undeclared wheat", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd70"), 
+    "Date of Recall" : ISODate("2018-04-05T00:00:00.000+0000"), 
+    "Recall" : "Correction - Food Recall Warning (Allergen) - Sensations brand Pecan-Crusted Cheesecake Collection recalled due to undeclared wheat", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Northwest Territories, Ontario, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd71"), 
+    "Date of Recall" : ISODate("2018-04-05T00:00:00.000+0000"), 
+    "Recall" : "Notification - Saputo mozzarella products recalled due to pieces of metal", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd72"), 
+    "Date of Recall" : ISODate("2018-04-04T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning -�Gasp�sien�brand ham products recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd73"), 
+    "Date of Recall" : ISODate("2018-04-04T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Sensations brand Pecan-Crusted Cheesecake Collection recalled due to undeclared wheat", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Nunavut, Ontario, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd74"), 
+    "Date of Recall" : ISODate("2018-04-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain Stella Artois brand Beer may be unsafe due to possible presence of glass particles", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd75"), 
+    "Date of Recall" : ISODate("2018-03-29T00:00:00.000+0000"), 
+    "Recall" : "Notification - Cedar Phoenicia brand Layer Izmir Figs recalled due to extraneous material", 
+    "Class" : "Class 3", 
+    "Distribution" : "Manitoba, Nova Scotia, Ontario, Quebec, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd76"), 
+    "Date of Recall" : ISODate("2018-03-29T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Rootalive brand Fenugreek Seed Powder recalled due to undeclared gluten", 
+    "Class" : "Class 3", 
+    "Distribution" : "British Columbia, Manitoba, New Brunswick, Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd77"), 
+    "Date of Recall" : ISODate("2018-03-28T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Harvest Creek brand Chicken Nuggets recalled due to�Salmonella", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd78"), 
+    "Date of Recall" : ISODate("2018-03-28T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Druxy's Fresh Deli Revolution brand Seasoned Cooked Roast Beef recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd79"), 
+    "Date of Recall" : ISODate("2018-03-28T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Durra brand Mansaf Seasoning recalled due to undeclared sesame and gluten", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd7a"), 
+    "Date of Recall" : ISODate("2018-03-27T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Druxy's Fresh Deli Revolution brand Seasoned Cooked Roast Beef recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd7b"), 
+    "Date of Recall" : ISODate("2018-03-26T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Irresistibles brand Swedish Style Meatballs Fully Cooked recalled due to undeclared gluten", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd7c"), 
+    "Date of Recall" : ISODate("2018-03-21T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Butcher's Selection brand Stampede Chicken Burgers recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Possibly National, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd7d"), 
+    "Date of Recall" : ISODate("2018-03-21T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Lotte brand Choco Pie � Green Tea recalled due to undeclared almond", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Ontario, Possibly National, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd7e"), 
+    "Date of Recall" : ISODate("2018-03-21T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Seggiano brand Raw Basil Pesto recalled due to undeclared cashew", 
+    "Class" : "Class 3", 
+    "Distribution" : "Alberta , British Columbia, Newfoundland and Labrador, Northwest Territories, Ontario, Quebec, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd7f"), 
+    "Date of Recall" : ISODate("2018-03-18T00:00:00.000+0000"), 
+    "Recall" : "Food Safety Warning - Good Boucher brand Lean Ground Beef may be unsafe due to�E.�coli�O157:H7", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Nova Scotia, Ontario, Possibly National, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd80"), 
+    "Date of Recall" : ISODate("2018-03-18T00:00:00.000+0000"), 
+    "Recall" : "Notification - Viandes Lauzon brand ground beef recalled due to�E.�coli�O157:H7", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd81"), 
+    "Date of Recall" : ISODate("2018-03-16T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - The Spice Tailor brand Fiery Goan Curry recalled due to undeclared mustard", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd82"), 
+    "Date of Recall" : ISODate("2018-03-16T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Butcher's Selection brand Stampede Chicken Burgers recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd83"), 
+    "Date of Recall" : ISODate("2018-03-16T00:00:00.000+0000"), 
+    "Recall" : "Notification - Ferma brand Red Fish recalled due to presence of parasitic worms", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd84"), 
+    "Date of Recall" : ISODate("2018-03-15T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Organic Matters brand Organic Cardamom Seed Whole Green Pods recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd85"), 
+    "Date of Recall" : ISODate("2018-03-15T00:00:00.000+0000"), 
+    "Recall" : "Notification - \"Nutty Club\" brand nut products recalled due to presence of aflatoxin", 
+    "Class" : "Class 3", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Ontario, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd86"), 
+    "Date of Recall" : ISODate("2018-03-09T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Lotte brand Choco Pies recalled due to undeclared almond", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd87"), 
+    "Date of Recall" : ISODate("2018-03-03T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Home-made Organic Mushroom Soup sold at�Belleville�Farmer's Market recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd88"), 
+    "Date of Recall" : ISODate("2018-03-03T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain Smoked Rainbow Trout products manufactured by Tarini Brothers Meat and Fish Market recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd89"), 
+    "Date of Recall" : ISODate("2018-03-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain Gusto brand and Olli brand ready-to-eat meat products recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd8a"), 
+    "Date of Recall" : ISODate("2018-03-02T00:00:00.000+0000"), 
+    "Recall" : "Notification - Bloom Organic Bazaar brand Organic Corn Flour recalled due to presence of aflatoxin", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd8b"), 
+    "Date of Recall" : ISODate("2018-03-02T00:00:00.000+0000"), 
+    "Recall" : "Notification - No Name brand Popping Corn recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd8c"), 
+    "Date of Recall" : ISODate("2018-03-01T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain pre-packaged Cooked Shrimp (56/65 Shrimp per�lb.) recalled due to potential presence of harmful bacteria", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd8d"), 
+    "Date of Recall" : ISODate("2018-02-28T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Lotte brand Kancho Choco Biscuit recalled due to undeclared peanut", 
+    "Class" : "Class 1", 
+    "Distribution" : "Manitoba, New Brunswick, Nova Scotia, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd8e"), 
+    "Date of Recall" : ISODate("2018-02-28T00:00:00.000+0000"), 
+    "Recall" : "Notification - Creative Meats brand Mild Dry Pepperonette recalled due to pieces of metal", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd8f"), 
+    "Date of Recall" : ISODate("2018-02-27T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Ikea brand Marshmallow candy (GODIS P�SKKYCKLING) may be unsafe due to possible contamination from mice infestation at the manufacturing plant", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , Manitoba, Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd90"), 
+    "Date of Recall" : ISODate("2018-02-23T00:00:00.000+0000"), 
+    "Recall" : "Notification - Mini Babybel Original brand Semi-Soft Ripened Cheese recalled due to off-taste and off-odour", 
+    "Class" : "Class 3", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd91"), 
+    "Date of Recall" : ISODate("2018-02-21T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Lotte brand Kancho Choco Biscuit recalled due to undeclared peanut", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, New Brunswick, Nova Scotia, Ontario, Possibly National, Prince Edward Island, Quebec, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd92"), 
+    "Date of Recall" : ISODate("2018-02-20T00:00:00.000+0000"), 
+    "Recall" : "Notification - No Name brand Meat Lasagna recalled due to pieces of rubber", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd93"), 
+    "Date of Recall" : ISODate("2018-02-16T00:00:00.000+0000"), 
+    "Recall" : "Notification - \"Nutty Club\" brand Sliced Brazils recalled due to aflatoxin", 
+    "Class" : "Class 3", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Ontario, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd94"), 
+    "Date of Recall" : ISODate("2018-02-16T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Danny's Pizza Brand Products Containing Garlic Fingers recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Possibly National, Prince Edward Island"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd95"), 
+    "Date of Recall" : ISODate("2018-02-16T00:00:00.000+0000"), 
+    "Recall" : "Notification - Certain brands of protein bars recalled due to pieces of metal", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd96"), 
+    "Date of Recall" : ISODate("2018-02-16T00:00:00.000+0000"), 
+    "Recall" : "Notification - Genuine Health brand protein bars recalled due to pieces of metal", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd97"), 
+    "Date of Recall" : ISODate("2018-02-13T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Paldo brand Seaweed Snack products and Lotte brand Kancho Choco Biscuit recalled due to undeclared peanut", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd98"), 
+    "Date of Recall" : ISODate("2018-02-09T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - KJ brand Sweet & Sour Chicken with Rice and Sesame Chicken with Rice recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd99"), 
+    "Date of Recall" : ISODate("2018-02-09T00:00:00.000+0000"), 
+    "Recall" : "Notification - No Name Brand Popping Corn recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd9a"), 
+    "Date of Recall" : ISODate("2018-02-09T00:00:00.000+0000"), 
+    "Recall" : "Notification - Weins brand Real Mayonnaise recalled due to mould", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd9b"), 
+    "Date of Recall" : ISODate("2018-02-08T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Sawler brand Turnip Sticks and Compliments brand Baby Cut Turnip Sticks recalled due to�Listeria monocytogenes", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Possibly National, Prince Edward Island"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd9c"), 
+    "Date of Recall" : ISODate("2018-02-07T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - KJ brand Sweet & Sour Chicken with Rice and Sesame Chicken with Rice recalled due to possible harmful bacteria", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd9d"), 
+    "Date of Recall" : ISODate("2018-02-07T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Araliya brand Thala Aluwa recalled due to undeclared wheat", 
+    "Class" : "Class 3", 
+    "Distribution" : "Alberta , British Columbia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd9e"), 
+    "Date of Recall" : ISODate("2018-02-06T00:00:00.000+0000"), 
+    "Recall" : "Notification - Great Value Popping Corn recalled due to presence of insects", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cd9f"), 
+    "Date of Recall" : ISODate("2018-02-02T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Daisho brand \"Seasoned Soup Base for Pot (Kimuchi Nabe Soup)\" recalled due to undeclared shrimp and crab", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda0"), 
+    "Date of Recall" : ISODate("2018-02-01T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Tavora brand and Alianca brand Butterfly breaded shrimp and VistaMar brand Gourmet breaded shrimp recalled due to undeclared egg", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda1"), 
+    "Date of Recall" : ISODate("2018-02-01T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Imperial Caviar & Seafood brand and VIP Caviar Club brand Whitefish and Salmon Roe recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda2"), 
+    "Date of Recall" : ISODate("2018-01-30T00:00:00.000+0000"), 
+    "Recall" : "Notification - Campitello brand Sheep's Milk Cheese (Semi-Soft Ripened) recalled due to�E.�coli", 
+    "Class" : "Class 2", 
+    "Distribution" : "British Columbia, Manitoba, Ontario, Quebec, Saskatchewan"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda3"), 
+    "Date of Recall" : ISODate("2018-01-29T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Bhugga sold at Rajdhani Sweets & Restaurant recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda4"), 
+    "Date of Recall" : ISODate("2018-01-29T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Coconut Tree brand Shredded Young Coconut recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda5"), 
+    "Date of Recall" : ISODate("2018-01-28T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Coconut Tree brand Shredded Young Coconut recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda6"), 
+    "Date of Recall" : ISODate("2018-01-27T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Imperial Caviar & Seafood brand and VIP Caviar Club brand Whitefish Roe recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda7"), 
+    "Date of Recall" : ISODate("2018-01-26T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - IHF brand sesame seeds recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda8"), 
+    "Date of Recall" : ISODate("2018-01-25T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Certain sesame seeds recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cda9"), 
+    "Date of Recall" : ISODate("2018-01-24T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Various brands of coconut products recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Possibly National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdaa"), 
+    "Date of Recall" : ISODate("2018-01-24T00:00:00.000+0000"), 
+    "Recall" : "Notification - Various brands of Raw Sesame Seeds recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdab"), 
+    "Date of Recall" : ISODate("2018-01-23T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Imperial Caviar & Seafood brand and VIP Caviar Club brand Whitefish and Salmon Roe recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdac"), 
+    "Date of Recall" : ISODate("2018-01-23T00:00:00.000+0000"), 
+    "Recall" : "Notification - Various brands of juice products recalled due to off odour", 
+    "Class" : "Class 3", 
+    "Distribution" : "New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdad"), 
+    "Date of Recall" : ISODate("2018-01-23T00:00:00.000+0000"), 
+    "Recall" : "Notification - Naturally Good brand Hulled Sesame Seeds recalled due to�Salmonella", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , New Brunswick, Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdae"), 
+    "Date of Recall" : ISODate("2018-01-19T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning (Allergen) - Te Chang Food brand tofu products recalled due to undeclared peanut and sesame", 
+    "Class" : "Class 1", 
+    "Distribution" : "Alberta , British Columbia, Manitoba, Nova Scotia, Ontario, Possibly National, Prince Edward Island, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdaf"), 
+    "Date of Recall" : ISODate("2018-01-19T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Imperial Caviar & Seafood brand Whitefish Roe recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb0"), 
+    "Date of Recall" : ISODate("2018-01-18T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Mehwish brand Gachak recalled due to undeclared almonds and sesame seeds", 
+    "Class" : "Class 3", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb1"), 
+    "Date of Recall" : ISODate("2018-01-16T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Liu Bi Hu brand Sweet Bean Paste recalled due to undeclared soy", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb2"), 
+    "Date of Recall" : ISODate("2018-01-12T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Ottogi brand Soup Products recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb3"), 
+    "Date of Recall" : ISODate("2018-01-11T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Ottogi brand Beef Bone and Vegetable Soup recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb4"), 
+    "Date of Recall" : ISODate("2018-01-11T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Ottogi brand Soup Products recalled due to undeclared milk", 
+    "Class" : "Class 2", 
+    "Distribution" : "Alberta , Manitoba, Nova Scotia, Ontario, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb5"), 
+    "Date of Recall" : ISODate("2018-01-10T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Imperial Caviar & Seafood brand Whitefish Roe and VIP Caviar Club brand Salmon Roe recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "New Brunswick, Ontario, Possibly National, Quebec"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb6"), 
+    "Date of Recall" : ISODate("2018-01-09T00:00:00.000+0000"), 
+    "Recall" : "Notification - Farmer's Market brand Rhubarb Strawberry Pie recalled due to pieces of plastic", 
+    "Class" : "Class 3", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb7"), 
+    "Date of Recall" : ISODate("2018-01-06T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning - Kirkland Signature brand All Butter Croissants recalled from certain stores due to possible presence of plastic", 
+    "Class" : "Class 2", 
+    "Distribution" : "Ontario"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb8"), 
+    "Date of Recall" : ISODate("2018-01-05T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning (Allergen) - Soy Complete brand Plant-Based Protein Shake � Vanilla recalled due to undeclared milk", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdb9"), 
+    "Date of Recall" : ISODate("2018-01-05T00:00:00.000+0000"), 
+    "Recall" : "Food Recall Warning -�PC�brand Sweet Chipotle Prepared Mustard may be unsafe due to possible presence of glass", 
+    "Class" : "Class 1", 
+    "Distribution" : "National"
+}
+{ 
+    "_id" : ObjectId("5bcc6532735159a5e425cdba"), 
+    "Date of Recall" : ISODate("2018-01-03T00:00:00.000+0000"), 
+    "Recall" : "Updated Food Recall Warning - Imperial Caviar & Seafood brand Whitefish Roe and VIP Caviar Club brand Salmon Roe recalled due to potential presence of dangerous bacteria", 
+    "Class" : "Class 1", 
+    "Distribution" : "Ontario, Quebec"
+}
