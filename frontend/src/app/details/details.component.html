@@ -1,0 +1,77 @@
+<img *ngIf="details.logo" [src]="details.logo">
+<div>
+  <b>Full name</b>
+  <p>{{details.name}}</p>
+
+  <br>
+  <b>Location</b>
+  <p>{{details.location}}</p>
+
+  <br>
+  <div *ngIf="details.twitter">
+    <b>Twitter</b>
+    <a [href]="details.twitter" [innerText]="details.twitter"></a>
+  </div>
+
+  <br>
+  <b>Linkedin</b>
+  <a [href]="details.linkedin">{{details.linkedin}}</a>
+
+  <br>
+  <div *ngIf="details.facebook">
+    <b>Facebook</b>
+    <a [href]="details.facebook" [innerText]="details.facebook"></a>
+  </div>
+
+  <br>
+  <b>Bio</b>
+  <p>{{details.bio}}</p>
+
+  <br>
+  <b>Website</b>
+  <p>{{details.website}}</p>
+
+  <br>
+  <b>Founded</b>
+  <p>{{details.founded}}</p>
+
+  <br>
+  <b>Employees</b>
+  <p>{{details.employees}}</p>
+
+  <br>
+  <h3>Details</h3>
+
+  <b>Industries</b>
+  <ul>
+    <li *ngFor="let ind of details.details.industries">
+      {{ind.name}}
+    </li>
+  </ul>
+
+  <br>
+  <b>Emails</b>
+  <ul>
+    <li *ngFor="let email of details.details.emails">
+      {{email.value}}
+    </li>
+  </ul>
+
+  <br>
+  <b>Phones</b>
+  <ul>
+    <li *ngFor="let phone of details.details.phones">
+      {{phone.value}}
+    </li>
+  </ul>
+
+  <br>
+  <b>Locations</b>
+  <ul>
+    <li *ngFor="let location of details.details.locations">
+      {{location.addressLine1}}
+      <br>
+      {{location.city}}, {{location.country}}
+    </li>
+  </ul>
+</div>

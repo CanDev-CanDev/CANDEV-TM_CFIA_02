@@ -1,0 +1,11 @@
+<div *ngFor="let ns of news">
+  <h2>
+    <a [href]="ns.url">{{ns.title}}</a>
+  </h2>
+  <b>Description:</b>
+  <p>{{ns.description}}</p>
+  <b>Published at:</b>
+  <p>{{ns.publishedAt}}</p>
+  <b>Source: </b>
+  <p>{{ns.source}}</p>
+</div>

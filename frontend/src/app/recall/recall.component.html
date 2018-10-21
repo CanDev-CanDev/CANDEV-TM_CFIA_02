@@ -1,0 +1,6 @@
+<ul>
+  <li *ngFor="let recall of recalls">
+    <p>{{recall.summary}}</p>
+    <a [href]="recall.url">{{recall.url}}</a>
+  </li>
+</ul>
